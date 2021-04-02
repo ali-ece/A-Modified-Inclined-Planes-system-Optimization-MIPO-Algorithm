@@ -1,1 +1,23 @@
 # A-Modified-Inclined-Planes-system-Optimization-MIPO-Algorithm
+
+"A Modified Inclined Planes system Optimization (MIPO) Algorithm"
+
+* With the aim of create a powerful trade-off between the concepts of exploitation and exploration, and rectify the complexity of their structural parameters in the standard IPO, a modified version of IPO (called MIPO) is introduced as an efficient optimization algorithm for digital infinite-impulse-response (IIR) filters model identification. The MIPO utilizes an appropriate mechanism based on the executive steps of algorithm with the constant damp factors. 
+
+** For the first time, the proposed MIPO has been applied to IIR model identification problem. Also, to show the effectiveness of the proposed algorithm, it has been utilized for optimization of ten complex benchmark functions.
+
+*** Tips for using these files:
+
+1- In the appendix, all the source code files are included along with its reference article.
+
+2- A complete description is available in the relevant article.
+
+3- The standard version of the algorithm along with the benchmark functions are available on the home screen.
+
+4- The problem solved by the modified version of MIPO is also available in the source codes.
+
+5- To use them, reading the reference article will easily remove all ambiguities.
+
+6- Citation with reference articles is required if any version is used.
+
+7- In case of any questions or ambiguities, please contact the author of the article via email. Or call me.
