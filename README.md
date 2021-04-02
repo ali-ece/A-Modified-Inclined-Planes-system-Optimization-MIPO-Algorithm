@@ -21,3 +21,12 @@
 6- Citation with reference articles is required if any version is used.
 
 7- In case of any questions or ambiguities, please contact the author of the article via email. Or call me.
+
+
+In the following links, the reference article of the modified version of the proposed MIPO algorithm along with some articles of the applications of the standard and improved version of the IPO algorithm are available:
+
+A. Mohammadi and S. H. Zahiri, “IIR model identification using a modified inclined planes system optimization algorithm,” Artificial Intelligence Review, vol. 48, no. 2, pp. 237–259, 2017. https://link.springer.com/article/10.1007/s10462-016-9500-z
+
+A. Mohammadi and S. H. Zahiri, “Inclined planes system optimization algorithm for IIR system identification,” International Journal of Machine Learning and Cybernetics, vol. 9, no. 3, pp. 541–558, March. 2018. https://link.springer.com/article/10.1007/s13042-016-0588-x
+
+A. Mohammadi, S. H. Zahiri, and S. M. Razavi, “Infinite impulse response systems modeling by artificial intelligent optimization methods,” Evol. Syst., vol. 10, no. 2, pp. 221–237, 2019. https://link.springer.com/article/10.1007/s12530-018-9218-z
